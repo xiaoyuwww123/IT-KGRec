@@ -18,7 +18,7 @@ SLEEP_MAX  = float(os.getenv("SLEEP_MAX", "2.2"))
 COURSE_JSON_DIR = "./course"
 
 # —— OpenAI —— #
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_MODEL   = os.getenv("OPENAI_MODEL", "gpt-4o")  # 按你的要求用 4o
 
 # 保障目录
