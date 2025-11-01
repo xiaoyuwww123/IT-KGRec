@@ -64,7 +64,7 @@ README.md
 clean_transform.py
 config.py
 course/
-course/┐╬│╠╓¬╩╢╡π═╝╞╫_ALL.json
+course/课程知识点图谱_ALL.json
 edu_ingest.py
 export/
 export/c++_offer.csv
